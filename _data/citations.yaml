@@ -1,209 +1,563 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1016/j.future.2025.108311
+  title: 'Elevating Datacenter Resilience with ThermADNet: A Thermal Anomaly Detection
+    System'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Mohsen Seyedkazemi Ardebili
+  - Andrea Acquaviva
+  - Luca Benini
+  - Andrea Bartolini
+  publisher: Future Generation Computer Systems
+  date: '2026-06-01'
+  link: https://doi.org/hcd2w6
+  orcid: 0000-0002-7323-759X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1016/j.datak.2025.102551
+  title: 'Targeting language models for compile-time computing resource optimization:
+    A novel approach based on masked graph autoencoders'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Federico Cichetti
+  - Emanuele Parisi
+  - Andrea Acquaviva
+  - Francesco Barchi
+  publisher: Data &amp; Knowledge Engineering
+  date: '2026-03-01'
+  link: https://doi.org/hcd2w7
+  orcid: 0000-0002-7323-759X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1109/JIOT.2026.3701432
+  title: An OpenSSL Engine for Secure and Transparent Offloading of Cryptographic
+    Operations to OP-TEE in Embedded IoT Platforms
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Tina Sayarmoafi
+  - Francesco Barchi
+  - Lorenzo Bottaccioli
+  - Andrea Acquaviva
+  - Edoardo Patti
+  - Paolo Montuschi
+  - Luca Barbierato
+  publisher: IEEE Internet of Things Journal
+  date: '2026-01-01'
+  link: https://doi.org/hcd2w8
+  orcid: 0000-0001-5155-6883
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1016/j.eswa.2025.128412
+  title: 'ANZIL: Attention-based network for zero-risk inspection of LiDAR point cloud
+    in self-driving cars'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Grafika Jati
+  - Martin Molan
+  - Francesco Barchi
+  - Andrea Bartolini
+  - Giuseppe Mercurio
+  - Andrea Acquaviva
+  publisher: Expert Systems with Applications
+  date: '2025-11-01'
+  link: https://doi.org/hcd2w9
+  orcid: 0000-0001-5155-6883
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1109/TSUSC.2025.3592097
+  title: Foundation Models for Structural Health Monitoring
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Luca Benfenati
+  - Daniele Jahier Pagliari
+  - Luca Zanatta
+  - Yhorman Alexander Bedoya Velez
+  - Andrea Acquaviva
+  - Massimo Poncino
+  - Enrico Macii
+  - Luca Benini
+  - Alessio Burrello
+  publisher: IEEE Transactions on Sustainable Computing
+  date: '2025-11-01'
+  link: https://doi.org/hcd2xb
+  orcid: 0000-0002-7323-759X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1145/3690823
+  title: "Unleashing OpenTitan\u2019s Potential: a Silicon-Ready Embedded Secure Element\
+    \ for Root of Trust and Cryptographic Offloading"
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Maicol Ciani
+  - Emanuele Parisi
+  - Alberto Musa
+  - Francesco Barchi
+  - Andrea Bartolini
+  - Ari Kulmala
+  - Rafail Psiakis
+  - Angelo Garofalo
+  - Andrea Acquaviva
+  - Rossi Davide
+  publisher: ACM Transactions on Embedded Computing Systems
+  date: '2025-09-13'
+  link: https://doi.org/hcd2xc
+  orcid: 0000-0001-5155-6883
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1109/ACCESS.2025.3555438
+  title: Novel Physical Unclonable Function Implementation for Microcontrollers and
+    Field Programmable Gate Arrays
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Marco Grossi
+  - "Martin Oma\xF1a"
+  - Cecilia Metra
+  - Andrea Acquaviva
+  publisher: IEEE Access
+  date: '2025-01-01'
+  link: https://doi.org/hcd2xd
+  orcid: 0000-0002-7323-759X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1007/978-3-031-96110-6_75
+  title: "Traffic Load Estimation via\_Time-Frequency Analysis of\_Dynamic Monitoring\
+    \ Data and\_Deep Learning"
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Samuel Zanella
+  - Francesco Barchi
+  - Amirhossein Moallemi
+  - Monica Longo
+  - Mattia Salvaro
+  - "Paola Dar\xF2"
+  - Luca Benini
+  - Andrea Acquaviva
+  publisher: Lecture Notes in Civil Engineering
+  date: '2025-01-01'
+  link: https://doi.org/hcd2xf
+  orcid: 0000-0001-5155-6883
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1007/s00521-024-10191-5
+  title: Energy efficient and low-latency spiking neural networks on embedded microcontrollers
+    through spiking activity tuning
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Francesco Barchi
+  - Emanuele Parisi
+  - Luca Zanatta
+  - Andrea Bartolini
+  - Andrea Acquaviva
+  publisher: Neural Computing and Applications
+  date: '2024-08-01'
+  link: https://doi.org/hcd2xg
+  orcid: 0000-0002-7323-759X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LSENS.2024.3434624
+  title: 'LIDAROC: Realistic LiDAR Cover Contamination Dataset for Enhancing Autonomous
+    Vehicle Perception Reliability'
+  authors:
+  - Grafika Jati
+  - Martin Molan
+  - Francesco Barchi
+  - Andrea Bartolini
+  - Giuseppe Mercurio
+  - Andrea Acquaviva
+  publisher: IEEE Sensors Letters
+  date: '2024-09-01'
+  link: https://doi.org/hcd2xh
+  orcid: 0000-0001-5155-6883
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.future.2024.01.031
+  title: 'HazardNet: A thermal hazard prediction framework for datacenters'
+  authors:
+  - Mohsen Seyedkazemi Ardebili
+  - Andrea Acquaviva
+  - Luca Benini
+  - Andrea Bartolini
+  publisher: Future Generation Computer Systems
+  date: '2024-06-01'
+  link: https://doi.org/hcd2xj
+  orcid: 0000-0002-7323-759X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3649153.3649213
+  title: Assessing the Performance of OpenTitan as Cryptographic Accelerator in Secure
+    Open-Hardware System-on-Chips
+  authors:
+  - Emanuele Parisi
+  - Alberto Musa
+  - Maicol Ciani
+  - Francesco Barchi
+  - Davide Rossi
+  - Andrea Bartolini
+  - Andrea Acquaviva
+  publisher: Proceedings of the 21st ACM International Conference on Computing Frontiers
+  date: '2024-05-07'
+  link: https://doi.org/hcd2xk
+  orcid: 0000-0001-5155-6883
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3629527.3652896
+  title: 'AutoGrAN: Autonomous Vehicle LiDAR Contaminant Detection using Graph Attention
+    Networks'
+  authors:
+  - Grafika Jati
+  - Martin Molan
+  - Junaid Ahmed Khan
+  - Francesco Barchi
+  - Andrea Bartolini
+  - Giuseppe Mercurio
+  - Andrea Acquaviva
+  publisher: Companion of the 15th ACM/SPEC International Conference on Performance
+    Engineering
+  date: '2024-05-07'
+  link: https://doi.org/hcd2xm
+  orcid: 0000-0001-5155-6883
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3637543.3652879
+  title: 'NARS: Neuromorphic Acceleration through Register-Streaming Extensions on
+    RISC-V Cores'
+  authors:
+  - Simone Manoni
+  - Paul Scheffler
+  - Alfio Di Mauro
+  - Luca Zanatta
+  - Andrea Acquaviva
+  - Luca Benini
+  - Andrea Bartolini
+  publisher: 'Proceedings of the 21st ACM International Conference on Computing Frontiers:
+    Workshops and Special Sessions'
+  date: '2024-05-07'
+  link: https://doi.org/hcd2xn
+  orcid: 0000-0002-7323-759X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3649153.3649201
+  title: 'TinyLid: a RISC-V accelerated Neural Network For LiDAR Contaminant Classification
+    in Autonomous Vehicle'
+  authors:
+  - Grafika Jati
+  - Martin Molan
+  - Francesco Barchi
+  - Andrea Bartolini
+  - Andrea Acquaviva
+  publisher: Proceedings of the 21st ACM International Conference on Computing Frontiers
+  date: '2024-05-07'
+  link: https://doi.org/hcd2xp
+  orcid: 0000-0001-5155-6883
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MITP.2023.3323820
+  title: 'Hospital and Home Environments Automation for Amyotrophic Lateral Sclerosis
+    Patients: Building Information Modeling and the Internet of Things in Digital
+    Environments'
+  authors:
+  - Francesco Alotto
+  - Matteo Del Giudice
+  - Roberta Surian
+  - Nicola Rimella
+  - Andrea Acquaviva
+  - Edoardo Patti
+  - Anna Osello
+  publisher: IT Professional
+  date: '2024-05-01'
+  link: https://doi.org/hcd2xq
+  orcid: 0000-0002-7323-759X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.eswa.2023.122285
+  title: 'Enhancing workplace safety: A flexible approach for personal protective
+    equipment monitoring'
+  authors:
+  - Alessia Pisu
+  - Nicola Elia
+  - Livio Pompianu
+  - Francesco Barchi
+  - Andrea Acquaviva
+  - Salvatore Carta
+  publisher: Expert Systems with Applications
+  date: '2024-03-01'
+  link: https://doi.org/g8qk2s
+  orcid: 0000-0001-5155-6883
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-70239-6_32
+  title: "DeepCodeGraph: A Language Model for\_Compile-Time Resource Optimization\
+    \ Using Masked Graph Autoencoders"
+  authors:
+  - Federico Cichetti
+  - Emanuele Parisi
+  - Andrea Acquaviva
+  - Francesco Barchi
+  publisher: Lecture Notes in Computer Science
+  date: '2024-01-01'
+  link: https://doi.org/hcd2xr
+  orcid: 0000-0001-5155-6883
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3624486.3624490
+  title: On the Containerization and Orchestration of RISC-V architectures for Edge-Cloud
+    computing
+  authors:
+  - Francesco Lumpp
+  - Francesco Barchi
+  - Andrea Acquaviva
+  - Nicola Bombieri
+  publisher: Proceedings of the 3rd Eclipse Security, AI, Architecture and Modelling
+    Conference on Cloud to Edge Continuum
+  date: '2023-10-17'
+  link: https://doi.org/hcd2xs
+  orcid: 0000-0001-5155-6883
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/jlpea12030037
+  title: 'Deep Learning Approaches to Source Code Analysis for Optimization of Heterogeneous
+    Systems: Recent Results, Challenges and Opportunities'
+  authors:
+  - Francesco Barchi
+  - Emanuele Parisi
+  - Andrea Bartolini
+  - Andrea Acquaviva
+  publisher: Journal of Low Power Electronics and Applications
+  date: '2022-07-05'
+  link: https://doi.org/gq4s62
+  orcid: 0000-0001-5155-6883
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TCAD.2021.3114617
+  title: Making the Most of Scarce Input Data in Deep Learning-Based Source Code Classification
+    for Heterogeneous Device Mapping
+  authors:
+  - Emanuele Parisi
+  - Francesco Barchi
+  - Andrea Bartolini
+  - Andrea Acquaviva
+  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+    Systems
+  date: '2022-06-01'
+  link: https://doi.org/gq4v3k
+  orcid: 0000-0001-5155-6883
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TII.2021.3078186
+  title: 'Trimming Feature Extraction and Inference for MCU-Based Edge NILM: A Systematic
+    Approach'
+  authors:
+  - Enrico Tabanelli
+  - Davide Brunelli
+  - Andrea Acquaviva
+  - Luca Benini
+  publisher: IEEE Transactions on Industrial Informatics
+  date: '2022-02-01'
+  link: https://doi.org/gjxd8b
+  orcid: 0000-0002-7323-759X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-23220-6_18
+  title: "Rule-Based Thermal Anomaly Detection for\_Tier-0 HPC Systems"
+  authors:
+  - Mohsen Seyedkazemi Ardebili
+  - Andrea Bartolini
+  - Andrea Acquaviva
+  - Luca Benini
+  publisher: Lecture Notes in Computer Science
+  date: '2022-01-01'
+  link: https://doi.org/hcd2xt
+  orcid: 0000-0002-7323-759X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-15740-0_27
+  title: "Smart Contracts for\_Certified and\_Sustainable Safety-Critical Continuous\
+    \ Monitoring Applications"
+  authors:
+  - Nicola Elia
+  - Francesco Barchi
+  - Emanuele Parisi
+  - Livio Pompianu
+  - Salvatore Carta
+  - Andrea Bartolini
+  - Andrea Acquaviva
+  publisher: Lecture Notes in Computer Science
+  date: '2022-01-01'
+  link: https://doi.org/hcd2xv
+  orcid: 0000-0001-5155-6883
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.eswa.2021.115167
+  title: Solar radiation forecasting based on convolutional neural network and ensemble
+    learning
+  authors:
+  - Davide Cannizzaro
+  - Alessandro Aliberti
+  - Lorenzo Bottaccioli
+  - Enrico Macii
+  - Andrea Acquaviva
+  - Edoardo Patti
+  publisher: Expert Systems with Applications
+  date: '2021-11-01'
+  link: https://doi.org/gjzssm
+  orcid: 0000-0002-7323-759X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/fi13080219
+  title: Spiking Neural Network-Based Near-Sensor Computing for Damage Detection in
+    Structural Health Monitoring
+  authors:
+  - Francesco Barchi
+  - Luca Zanatta
+  - Emanuele Parisi
+  - Alessio Burrello
+  - Davide Brunelli
+  - Andrea Bartolini
+  - Andrea Acquaviva
+  publisher: Future Internet
+  date: '2021-08-23'
+  link: https://doi.org/gr535h
+  orcid: 0000-0001-5155-6883
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.36227/techrxiv.14636919
+  title: 'TRIMMING FEATURE EXTRACTION AND INFERENCE FOR MCU-BASED EDGE NILM: A SYSTEMATIC
+    APPROACH'
+  authors:
+  - Enrico Tabanelli
+  - Davide Brunelli
+  - Luca Benini
+  - Andrea Acquaviva
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2021-05-28'
+  link: https://doi.org/hcd2xw
+  orcid: 0000-0002-7323-759X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.36227/techrxiv.14636919.v1
+  title: 'TRIMMING FEATURE EXTRACTION AND INFERENCE FOR MCU-BASED EDGE NILM: A SYSTEMATIC
+    APPROACH'
+  authors:
+  - Enrico Tabanelli
+  - Davide Brunelli
+  - Luca Benini
+  - Andrea Acquaviva
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2021-05-28'
+  link: https://doi.org/hcd2xx
+  orcid: 0000-0002-7323-759X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TETC.2019.2908079
+  title: Flexible On-Line Reconfiguration of Multi-Core Neuromorphic Platforms
+  authors:
+  - Francesco Barchi
+  - Gianvito Urgese
+  - Alessandro Siino
+  - Santa Di Cataldo
+  - Enrico Macii
+  - Andrea Acquaviva
+  publisher: IEEE Transactions on Emerging Topics in Computing
+  date: '2021-04-01'
+  link: https://doi.org/hcd2xz
+  orcid: 0000-0001-5155-6883
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2021.3110167
+  title: Comparative Analysis of Neural Networks Techniques to Forecast Global Horizontal
+    Irradiance
+  authors:
+  - Alessandro Aliberti
+  - Daniele Fucini
+  - Lorenzo Bottaccioli
+  - Enrico Macii
+  - Andrea Acquaviva
+  - Edoardo Patti
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/hcd2x2
+  orcid: 0000-0002-7323-759X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/electronics8111342
+  title: Benchmarking a Many-Core Neuromorphic Platform With an MPI-Based DNA Sequence
+    Matching Algorithm
+  authors:
+  - Gianvito Urgese
+  - Francesco Barchi
+  - Emanuele Parisi
+  - Evelina Forno
+  - Andrea Acquaviva
+  - Enrico Macii
+  publisher: Electronics
+  date: '2019-11-14'
+  link: https://doi.org/hcd2x3
+  orcid: 0000-0001-5155-6883
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TSG.2018.2826844
+  title: A Cloud-Based On-Line Disaggregation Algorithm for Home Appliance Loads
+  authors:
+  - Million Abayneh Mengistu
+  - Awet Abraha Girmay
+  - Chirstian Camarda
+  - Andrea Acquaviva
+  - Edoardo Patti
+  publisher: IEEE Transactions on Smart Grid
+  date: '2019-05-01'
+  link: https://doi.org/gnkf5h
+  orcid: 0000-0002-7323-759X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TETC.2018.2851313
+  title: Guest Editorial for the Special Section on Emerging Computational Paradigms
+  authors:
+  - Alberto Macii
+  - Andrea Acquaviva
+  publisher: IEEE Transactions on Emerging Topics in Computing
+  date: '2018-07-01'
+  link: https://doi.org/hcd2x4
+  orcid: 0000-0002-7323-759X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TII.2017.2702206
+  title: A Flexible Distributed Infrastructure for Real-Time Cosimulations in Smart
+    Grids
+  authors:
+  - Lorenzo Bottaccioli
+  - Abouzar Estebsari
+  - Enrico Pons
+  - Ettore Bompard
+  - Enrico Macii
+  - Edoardo Patti
+  - Andrea Acquaviva
+  publisher: IEEE Transactions on Industrial Informatics
+  date: '2017-12-01'
+  link: https://doi.org/gcqjgc
+  orcid: 0000-0002-7323-759X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ress.2026.113105
+  title: 'Beyond foundation models: Dimension-aware neural architecture search with
+    small-data representation models for cryocooler lifetime prediction'
+  authors:
+  - Gregor Molan
+  - Grafika Jati
+  - Francesco Barchi
+  - Andrea Acquaviva
+  - "Alja\u017E Osterman"
+  - Martin Molan
+  publisher: Reliability Engineering &amp; System Safety
+  date: '2027-01-01'
+  link: https://doi.org/hcd23g
+  orcid: 0000-0001-5155-6883
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.engappai.2025.112987
+  title: A transformer-based approach for source code classification for heterogeneous
+    device mapping
+  authors:
+  - Marco Siino
+  - Emanuele Parisi
+  - Francesco Barchi
+  - Andrea Acquaviva
+  - Andrea Bartolini
+  publisher: Engineering Applications of Artificial Intelligence
+  date: '2026-01-01'
+  link: https://doi.org/hb6dmm
+  orcid: 0000-0001-5155-6883
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -219,9 +573,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -238,21 +589,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:

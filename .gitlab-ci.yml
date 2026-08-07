@@ -1,0 +1,31 @@
+image: ruby:3.1 # Usiamo Ruby come base per Jekyll
+
+variables:
+  JEKYLL_ENV: production
+
+before_script:
+  # 1. Installa Python e pip (essenziali per lo script _cite/cite.py)
+  - apt-get update -y && apt-get install -y python3 python3-pip python3-venv
+  
+  # 2. Configura un ambiente virtuale Python e installa le librerie dal requirements.txt
+  - python3 -m venv venv
+  - source venv/bin/activate
+  - pip install --upgrade pip
+  - pip install -r _cite/requirements.txt
+  
+  # 3. Installa le dipendenze di Ruby (Jekyll e plugin)
+  - bundle install
+
+pages:
+  stage: deploy
+  script:
+    # 4. ESEGUE LA GENERAZIONE DINAMICA DELLA BIBLIOGRAFIA DA ORCID
+    - python3 _cite/cite.py
+    
+    # 5. Compila il sito Jekyll nella cartella "public" (richiesta da GitLab)
+    - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == "main" # Modifica in "master" se è il tuo branch principale
