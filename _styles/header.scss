@@ -1,7 +1,4 @@
----
----
-
-$logo-big: 200px;
+--- --- $logo-big: 200px;
 $logo: 60px;
 $big-padding: 100px;
 $collapse: 700px;
@@ -42,9 +39,11 @@ header a {
   height: $logo;
 }
 
-.logo > * {
-  width: unset;
+.logo>* {
+  width: auto;
   height: 100%;
+  max-width: 100%;
+  object-fit: contain;
 }
 
 .title-text {
@@ -104,11 +103,11 @@ nav {
   text-transform: uppercase;
 }
 
-nav > a {
+nav>a {
   padding: 5px;
 }
 
-nav > a:hover {
+nav>a:hover {
   color: var(--primary);
 }
 
@@ -120,7 +119,7 @@ header:not([data-big]) {
       display: flex;
     }
 
-    .nav-toggle:not(:checked) + nav {
+    .nav-toggle:not(:checked)+nav {
       display: none;
     }
 
@@ -149,7 +148,10 @@ header[data-big] {
 
   .logo {
     height: $logo-big;
-    flex-shrink: 0;
+    max-height: 40vw;
+    /* Scales down on very small screens */
+    flex-shrink: 1;
+    /* Allows shrinking if needed */
   }
 
   .title-text {
