@@ -1,7 +1,7 @@
 # site properties and page defaults
 title:
-subtitle: University of Bologna
-description: Programming of energy efficient, secure and autonomous computing systems and cyber-physical systems
+subtitle: 
+description: An engaging 1-3 sentence description of your lab.
 header: images/bolo.jpg
 proofer: false
 
