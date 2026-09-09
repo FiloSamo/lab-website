@@ -6,9 +6,21 @@ principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+full-professor:
+  icon: fa-solid fa-chalkboard-user
+  description: Full Professor
+
+assistant-professor:
+  icon: fa-solid fa-chalkboard-user
+  description: Assistant Professor
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
+
+research-scientist:
+  icon: fa-solid fa-flask
+  description: Research Scientist
 
 phd:
   icon: fa-solid fa-graduation-cap
@@ -220,3 +232,8 @@ package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+
+gitlab:
+  icon: fa-brands fa-gitlab
+  text: GitLab
+  tooltip: GitLab
